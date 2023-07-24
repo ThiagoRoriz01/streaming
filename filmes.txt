@@ -1,0 +1,1 @@
+nome='Overcomer', anoLancamento=2019, duração11
